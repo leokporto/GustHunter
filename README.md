@@ -1,4 +1,4 @@
-# GustHunter
+# Gust Hunter
 
 <img src="./Docs/GustHunter.png" alt="GustHunter logo" width="300px">
 
@@ -15,3 +15,4 @@ It's an application that can provide real-time weather data and forecasts specif
 **Location Management Service**: This service handles location data, allowing users to search for and save their favorite locations. It could also provide location-based weather forecasts.
 
 **Authentication Service**: This service handles user registration and login. It ensures that user data is secure and that only authenticated users can access certain features.
+
